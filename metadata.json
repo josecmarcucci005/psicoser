@@ -1,0 +1,7 @@
+{
+  "name": "Mente Serena - Psicología Profesional",
+  "description": "Una plataforma moderna y profesional para servicios de psicología, que ofrece información sobre terapias, recursos de bienestar y un asistente de IA empático para orientación inicial.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
